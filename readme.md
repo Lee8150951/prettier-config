@@ -1,0 +1,1 @@
+## 注意：将.prettierrc文件放在根目录/Users/**下
